@@ -2,12 +2,12 @@
 
 ## What is Chain Reaction ?
 
-It was a school project, we had to reprogram the Chain Reaction game and be able to :
+Chain Reaction was a school project in which we had to reprogram the game in its entirety and be able to :
 - Play from 2 to 8 people
-- Play on a board from 3x3 to 10x15
+- Play on a board from 3x3 to 10x15 cells
 - Save and resume a game
 
-For those who are not familiar with the Chain Reaction Game you can find an explanation here :  
+For those who are not familiar with the Chain Reaction Game, you can find an explanation here :  
 https://hope.scce.info/chainreaction/
 
 It is currently in french but feel free to use it or modify it as you need =P
